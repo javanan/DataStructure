@@ -1,3 +1,13 @@
+关注我的公众号 获取更多资料
+![](http://voyager.guan2ye.com/wx1.jpg)
+
+
+## 程序员必备（云服务器，学习练手，必须要 一天的饭钱换一年的练手机会） 
+
+阿里云新老账户都是享受1折，89一年（老用户比较贵，但是其实你注册一个新账号就好，用家人的支付宝直接扫描一下，几分钟的事情），https://www.aliyun.com/minisite/goods?userCode=vf2b5zld&share_source=copy_link
+
+腾讯云也有https://cloud.tencent.com/act/cps/redirect?redirect=1052&cps_key=1cdaea7b77fe67188b187bce55796594&from=console
+
 ## 数据结构与算法学习之路
 
 ##### 下面的算法都打包在一个应用当中，你只需要下载安装即可，里面有算法的介绍，时间复杂度，空间复杂度，代码示例
